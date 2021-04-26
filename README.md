@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @retr0bun
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning C# and Game Development
